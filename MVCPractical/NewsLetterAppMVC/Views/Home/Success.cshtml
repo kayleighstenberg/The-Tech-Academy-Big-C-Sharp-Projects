@@ -1,0 +1,18 @@
+﻿
+@{
+
+    ViewBag.Title = "Success";
+
+}
+
+<div class="form-group row">
+    <label for="staticEmail" class="col-sm-2 col-form-label">Thank you! Your quote is:</label>
+    <div class="col-sm-10">
+        <input type="text" readonly class="form-control-plaintext" id="staticEmail" value=@ViewBag.TotalQuoteAmt>
+    </div>
+</div>
+
+<p>
+    @ViewBag.TotalQuoteAmt
+
+</p>
