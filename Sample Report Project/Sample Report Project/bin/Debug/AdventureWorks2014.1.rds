@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AdventureWorks2014.1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-L8IAUOS\SQLEXPRESS;Initial Catalog=AdventureWorks2014</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>dac07e4a-df35-47f0-9dcf-cd2feaa375c0</DataSourceID>
+</RptDataSource>
